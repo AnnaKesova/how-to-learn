@@ -35,7 +35,7 @@
 }
 
 .header__title {
-  margin: 0 0 0 64px ;
+  margin: 0 0 0 64px;
   width: 730px;
   line-height: 96px;
   font-size: 102px;
@@ -60,7 +60,7 @@
   text-decoration: none;
   line-height: 25px;
   font-size: 18px;
-  font-weight: normal
+  font-weight: normal;
 }
 
 .header__main-illustration {
